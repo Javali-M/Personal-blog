@@ -12,7 +12,7 @@
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #FFB3B3 !important;
 }
 
 .footer-padding {
@@ -25,7 +25,7 @@
 	bottom: 0;
 	width: 100%;
 	height: 60px;
-	background-color: #1abc9c;
+	background-color: #FFB3B3;
 }
 
 .footer p {
@@ -33,7 +33,10 @@
 	font-size: 12px;
   color: #fff;
 }
-/* .button{
-    color: blue
-
-} */
+p{
+font-family: 'Neucha', cursive;
+font-size: larger;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
